@@ -7,7 +7,7 @@
 ![people-counter-python](./results/smart-queuing-system.png)
 
 ## What it Does
-Smart Queuing System app is used to reduce queue congestions. This app detects and counts the number of people in a particular queue and redirects them them to a less congested queue. This app has many applications, in this project, I have used the app for the following 3 scenarios:-
+Smart Queuing System app is used to reduce queue congestions. This app detects and counts the number of people in a particular queue and redirects them to a less congested queue. This app has many applications, in this project, I have used the app for the following 3 scenarios:-
 *   Scenario 1: Manufacturing 
 *   Scenario 2: Retail
 *   Scenario 3: Transportation
