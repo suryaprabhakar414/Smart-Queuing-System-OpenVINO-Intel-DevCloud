@@ -17,7 +17,7 @@ All of the scenarios involve people in queues, but each scenario will require di
 We will be comparing the performance of the following 4 hardwares on each of the above menrtioned scenarios:- 
 *  Central Processing Unit(CPU)
 *  Integrated Graphics Processing Unit(IGPU)
-*  Vision Processing Unit(VPU) or Neural Compute Stick 2(NCS2)
+*  Vision Processing Unit(VPU) or Intel Neural Compute Stick 2(NCS2)
 *  Field-Programmable Gate Array(FPGA)
 
 Intel DevCloud gives you remote access to computing, storage, and networking resources within your data center or through a public cloud service provider. We will use Intel DevCloud to run our model on the above mentioned hardwares for each scenario. 
